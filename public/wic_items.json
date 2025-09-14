@@ -1,0 +1,38 @@
+[
+  {
+    "passage": "The scientist's findings were groundbreaking, fundamentally altering our understanding of cellular biology.",
+    "blank_sentence": "Her research was so _____ that it changed the entire field.",
+    "choice_A": "A. revolutionary",
+    "choice_B": "B. mundane",
+    "choice_C": "C. confusing",
+    "choice_D": "D. expensive",
+    "correct_answer": "A. revolutionary",
+    "strategy_tag": "Contextual Definition",
+    "explanation": "The passage describes findings as 'groundbreaking' and 'fundamentally altering understanding', which directly supports 'revolutionary' as the correct answer.",
+    "id": 1
+  },
+  {
+    "passage": "Despite the harsh criticism from reviewers, the author remained steadfast in her artistic vision.",
+    "blank_sentence": "The writer was _____ in maintaining her creative direction.",
+    "choice_A": "A. flexible",
+    "choice_B": "B. unwavering",
+    "choice_C": "C. uncertain",
+    "choice_D": "D. dismissive",
+    "correct_answer": "B. unwavering",
+    "strategy_tag": "Contrast/Despite Signal",
+    "explanation": "'Despite the harsh criticism' signals a contrast - the author didn't change course, remaining 'steadfast' or 'unwavering'.",
+    "id": 2
+  },
+  {
+    "passage": "The ancient manuscript was so deteriorated that scholars could barely make out the faded text.",
+    "blank_sentence": "The document was in such a _____ state that reading it required special equipment.",
+    "choice_A": "A. pristine",
+    "choice_B": "B. legible",
+    "choice_C": "C. dilapidated",
+    "choice_D": "D. valuable",
+    "correct_answer": "C. dilapidated",
+    "strategy_tag": "Context Clues",
+    "explanation": "Words like 'deteriorated', 'barely make out', and 'faded' all point to the manuscript being in a 'dilapidated' or ruined condition.",
+    "id": 3
+  }
+]
